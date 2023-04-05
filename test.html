@@ -1,0 +1,43 @@
+
+<input type="checkbox" id="my-modal-4" class="modal-toggle" />
+<label for="my-modal-4" class="modal cursor-pointer">
+  <label class="modal-box relative" for="">
+    
+  </label>
+</label>
+<div class="modal" id="my-modal-2">
+  <div class="modal-box">
+    <h3 class="text-lg font-bold mb-4">Votre article a été ajouté au panier</h3>
+    <div class="card card-side bg-base-100 shadow-lg h-48">
+      <figure>
+        <img
+          class="object-cover h-full w-56"
+          src="${article.img}"
+          alt="${article.name}"
+        />
+      </figure>
+      <div class="card-body">
+        <h2 class="uppercase text-xs text-slate-500">${article.brand}</h2>
+        <p class="text-xl font-semibold">${article.name}</p>
+        <p class="uppercase text-xs text-slate-500">Quantité: 1</p>
+        <button
+          class="btn btn-sm btn-success text-lg pointer-events-none text-white w-16"
+        >
+          ${article.price}€
+        </button>
+      </div>
+    </div>
+    <div class="modal-action">
+      <a
+        href="#"
+        class="btn bg-yellow-500 border-white text-white hover:bg-white hover:border-yellow-500 hover:text-yellow-500"
+        >Continuer mes achats</a
+      >
+      <a
+        href="#"
+        class="btn btn-primary bg-blue-950 border-white hover:text-blue-950 hover:bg-white hover:border-blue-950"
+        >Voir mon panier</a
+      >
+    </div>
+  </div>
+</div>

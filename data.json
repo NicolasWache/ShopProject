@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {"id": "1","brand": "Samsung", "name": "Galaxy S23 Ultra", "price": "1199", "img": "./img/s23Ultra.avif", "category": "smartphones"},
+    {"id": "2","brand": "Samsung", "name": "Galaxy Z Fold ", "price": "199", "img": "./img/samsungZFold4.webp", "category": "smartphones"},
+    {"id": "3","brand": "Apple", "name": "Iphone 14 Pro", "price": "1199", "img": "./img/Iphone14Pro.webp", "category": "smartphones"},
+    {"id": "4","brand": "Apple", "name": "Iphone 14 Pro Max", "price": "1399", "img": "./img/Iphone14ProMax.jpg", "category": "smartphones"},
+    {"id": "5","brand": "Oppo", "name": "Find X6 Pro", "price": "1099", "img": "./img/Oppofindx6pro.avif", "category": "smartphones"},
+    {"id": "6","brand": "OnePlus", "name": "11", "price": "799", "img": "./img/O+11Pro.jpg", "category": "smartphones"},
+    {"id": "7","brand": "Apple", "name": "Macbook Air M2", "price": "1199", "img": "./img/MacbookAirM2.webp", "category": "PC"},
+    {"id": "8","brand": "Apple", "name": "Macbook Pro M2 14", "price": "1699", "img": "./img/MacbookPro14.jpg", "category": "PC"},
+    {"id": "9","brand": "Apple", "name": "Macbook Pro M1 Max 16", "price": "2099", "img": "./img/MacbookPro16.webp", "category": "PC"},
+    {"id": "10","brand": "Dell", "name": "XPS 13", "price": "1399", "img": "./img/xps13.jpg", "category": "PC"},
+    {"id": "11","brand": "Dell", "name": "XPS 16 ", "price": "1899", "img": "./img/xps15.jpg", "category": "PC"},
+    {"id": "12","brand": "Samsung", "name": "Galaxy Book 3 Ultra", "price": "3099", "img": "./img/galaxybook3Ultra.webp", "category": "PC"},
+    {"id": "13","brand": "Samsung", "name": "Coque S23 Ultra", "price": "59.99", "img": "./img/cases23Ultra.avif", "category": "accessory"},
+    {"id": "14","brand": "Apple", "name": "Coque Iphone 14 Pro", "price": "59.99", "img": "./img/caseIphone14pro.jpg", "category": "accessory"},
+    {"id": "15","brand": "Apple", "name": "Coque Iphone 14 Pro Max", "price": "59.99", "img": "./img/caseIphone14ProMax.jpg", "category": "accessory"}
+  ] 
+}
